@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "fake_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MBNTQ2YWtK0PUAraSpdFs"
+    }
+  ],
+  "products": [
+    {
+      "name": "Coca Cola drink",
+      "description": "Product from American",
+      "price": 1200,
+      "quantity": 300,
+      "image": "Screenshot 2023-03-16 233813.png",
+      "id": 1
+    },
+    {
+      "name": "Sting drink",
+      "description": "Product from American",
+      "price": 750,
+      "quantity": 0,
+      "image": "Screenshot 2023-03-02 002723.png",
+      "id": 2
+    },
+    {
+      "name": "Pepsi energy drink",
+      "description": "Product from American",
+      "price": 930,
+      "quantity": 240,
+      "image": "Capture.PNG",
+      "id": 3
+    },
+    {
+      "name": "Bacchus energy drink",
+      "description": "Product from Korean",
+      "price": 500,
+      "quantity": 9,
+      "image": "Screenshot 2023-03-16 233813.png",
+      "id": 4
+    },
+    {
+      "name": "Krud energy drink",
+      "description": "Product from Cambodia",
+      "price": 333,
+      "quantity": 150,
+      "image": "Capture.PNG",
+      "id": 5
+    },
+    {
+      "name": "Vital water",
+      "description": "Product from Cambodia",
+      "price": 500,
+      "quantity": 1000,
+      "image": "Screenshot 2023-03-16 233813.png",
+      "id": 6
+    },
+    {
+      "name": "Angkor Puro water",
+      "description": "Product from Cambodia",
+      "price": 450,
+      "quantity": 700,
+      "image": "Screenshot 2023-03-24 221852.png",
+      "id": 7
+    },
+    {
+      "name": "Cambodia water",
+      "description": "Product from Cambodia",
+      "price": 500,
+      "quantity": 1200,
+      "image": "Screenshot 2023-03-02 001940.png",
+      "id": 8
+    },
+    {
+      "name": "Kulen water",
+      "description": "Product from Cambodia",
+      "price": 1300,
+      "quantity": 5,
+      "image": "Screenshot 2023-03-16 234255.png",
+      "id": 9
+    },
+    {
+      "name": "Vigor energy drink",
+      "description": "Product from Malaysia",
+      "price": 300,
+      "quantity": 150,
+      "image": "Screenshot 2023-03-18 160837.png",
+      "id": 10
+    }
+  ]
+}
